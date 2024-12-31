@@ -1,8 +1,8 @@
 ### 👨🏻‍💻 Gonçalo Oliveira
 
-**`Desenvolvedor Iniciante | Entusiasta de Jogos`**
+**`Desenvolvedor Iniciante | Full Stack`**
 
-Oi! Sou Gonçalo Oliveira, tenho 16 anos e sou natural de Portugal. Iniciei minha jornada como **desenvolvedor full stack** e já trabalhei com **HTML**, **CSS** e **Lua**, além de me aventurar em projetos de **Street Fighter V** (SFV). Meu foco é criar **jogos** e **aplicativos**, e estou sempre em busca de novas oportunidades para aprender e inovar. Acompanhe meu trabalho no **GitHub** [Gongals](https://github.com/Gongals) e no **Twitter** [@Gongals](https://twitter.com/Gongals).
+Olá! Sou Gonçalo Oliveira, tenho 16 anos e sou natural de Portugal. Estou no início da minha jornada como desenvolvedor, e, apesar de ser iniciante, já possuo experiência com **HTML**, **CSS**, e **Lua**. Estou determinado a me tornar um **desenvolvedor full stack** e, embora tenha uma forte afinidade por **jogos** e **aplicativos**, estou aberto a aprender e trabalhar em diferentes projetos para expandir minhas habilidades. Compartilho meu aprendizado e projetos no **GitHub** [Gongals](https://github.com/Gongals) e no **Twitter** [@Gongals](https://twitter.com/Gongals).
 
 ---
 
@@ -25,31 +25,23 @@ Oi! Sou Gonçalo Oliveira, tenho 16 anos e sou natural de Portugal. Iniciei minh
 
 ---
 
-### 🎮 Meu Interesse em **Street Fighter V (SFV)**
+### 🤖 Tecnologias e Ferramentas
 
-Estou explorando a criação de ferramentas e scripts para **Street Fighter V (SFV)** usando **Lua**. Isso inclui a análise de **combos**, **simulações de movimentos** e até **bots** para melhorar a jogabilidade. Em breve, vou compartilhar alguns desses projetos no meu GitHub, com tutoriais e insights para a comunidade de **SFV**.
-
-🔗 Acesse os projetos SFV no meu [GitHub](https://github.com/Gongals).
-
----
-
-### 🤖 Linguagens e Tecnologias
-
-Aqui estão as tecnologias com as quais estou trabalhando atualmente, focando também no desenvolvimento de **jogos**:
+Aqui estão as principais linguagens e ferramentas com as quais estou trabalhando:
 
 <p align="left">
     <img align="left" alt="HTML" title="HTML" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
     <img align="left" alt="CSS" title="CSS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
     <img align="left" alt="Lua" title="Lua" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
     <img align="left" alt="Love2D" title="Love2D" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/love/love-original.svg" />
-    <img align="left" alt="SFV" title="Street Fighter V" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Street_Fighter_V_logo.svg/1024px-Street_Fighter_V_logo.svg.png" />
+    <img align="left" alt="Git" title="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </p>
 
 ---
 
 ### 📊 Estatísticas
 
-Aqui estão algumas das minhas estatísticas e insights de projetos:
+Aqui estão algumas das minhas estatísticas de desenvolvimento, mostrando meu progresso:
 
 <p align="center">
   <img 
