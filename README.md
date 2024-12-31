@@ -50,6 +50,9 @@ Aqui estão algumas das minhas estatísticas de desenvolvimento, mostrando meu p
     height="200" 
     src="https://github-readme-stats.vercel.app/api?username=Gongals&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
+
+<br/>
+
   <img 
     align="center" 
     alt="Tecnologias" 
