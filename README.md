@@ -45,7 +45,7 @@ Aqui estão algumas das minhas estatísticas de desenvolvimento, mostrando meu p
 
 <p align="center">
   <img 
-    align="center" 
+    align="left" 
     alt="GitHub Stats" 
     height="200" 
     src="https://github-readme-stats.vercel.app/api?username=Gongals&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
@@ -54,7 +54,7 @@ Aqui estão algumas das minhas estatísticas de desenvolvimento, mostrando meu p
 <br/>
 
   <img 
-    align="center" 
+    align="left" 
     alt="Tecnologias" 
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gongals&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
