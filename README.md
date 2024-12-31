@@ -65,6 +65,3 @@ Acompanhe meu progresso no GitHub:
 
 Estou sempre aberto para aprender e colaborar! Se você está interessado em projetos, dicas ou quer trocar ideias sobre tecnologia, me siga no [Twitter](https://twitter.com/Gongals) ou [GitHub](https://github.com/Gongals) para ficarmos conectados.
 
----
-
-Essa versão foi formatada para ter uma estrutura mais visual, com alinhamentos e chamadas à ação mais claras. Ela está dividida em seções bem definidas, o que torna o perfil mais profissional e atrativo. Sinta-se à vontade para adicionar ou remover partes conforme achar necessário!
