@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Iniciante`**
 
-Olá, sou Gonçalo Oliveira, tenho 16 anos e sou natural de Portugal. Estou começando minha jornada no desenvolvimento e já aprendi um pouco de **HTML**, **CSS** e **Lua**. Meu objetivo é me tornar um **desenvolvedor full stack**, com foco em criar jogos e aplicativos, mas estou aberto a aprender com diferentes tipos de projetos. Compartilho meu aprendizado e meus projetos no GitHub [Gongals](https://github.com/Gongals) e no Twitter [@Gongals](https://twitter.com/Gongals). A cada novo projeto que eu desenvolver, vou adicionar ao meu GitHub.
+Sou Gonçalo Oliveira, tenho 16 anos e sou natural de Portugal. Estou iniciando minha jornada no desenvolvimento e já aprendi um pouco de **HTML**, **CSS** e **Lua**. Meu objetivo é me tornar um **desenvolvedor full stack**, com foco em criar jogos e aplicativos. Compartilho meus projetos e aprendizado no **GitHub** [Gongals](https://github.com/Gongals) e no **Twitter** [@Gongals](https://twitter.com/Gongals).
 
 ---
 
@@ -27,7 +27,7 @@ Olá, sou Gonçalo Oliveira, tenho 16 anos e sou natural de Portugal. Estou come
 
 ### 🤖 Linguagens e Tecnologias
 
-Eu trabalho com as seguintes tecnologias:
+Tecnologias que utilizo e com as quais estou aprendendo:
 
 <p align="left">
     <img align="left" alt="HTML" title="HTML" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -42,7 +42,7 @@ Eu trabalho com as seguintes tecnologias:
 
 ### 📊 Estatísticas
 
-Acompanhe meu progresso no GitHub:
+Meu progresso no GitHub:
 
 <p align="center">
   <img 
@@ -53,15 +53,8 @@ Acompanhe meu progresso no GitHub:
   />
   <img 
     align="center" 
-    alt="GitHub Stats" 
+    alt="Tecnologias" 
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gongals&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
-
----
-
-### 💬 Vamos Conversar?
-
-Estou sempre aberto para aprender e colaborar! Se você está interessado em projetos, dicas ou quer trocar ideias sobre tecnologia, me siga no [Twitter](https://twitter.com/Gongals) ou [GitHub](https://github.com/Gongals) para ficarmos conectados.
-
