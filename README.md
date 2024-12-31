@@ -36,6 +36,7 @@ Aqui estão as principais linguagens e ferramentas com as quais estou trabalhand
 
 <br/>
 <br/>
+
 ---
 
 ### 📊 Estatísticas
