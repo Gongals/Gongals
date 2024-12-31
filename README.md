@@ -52,6 +52,7 @@ Aqui estão algumas das minhas estatísticas de desenvolvimento, mostrando meu p
   />
 
 <br/>
+<br/>
 
   <img 
     align="left" 
