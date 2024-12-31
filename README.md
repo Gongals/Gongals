@@ -1,29 +1,15 @@
 ### 👨🏻‍💻 Gonçalo Oliveira
 
-**`Desenvolvedor(a) Iniciante`**
+**`Desenvolvedor Iniciante`**
 
-Me chamo Gonçalo Oliveira, tenho 16 anos e sou natural de Portugal. Estou começando a minha jornada no desenvolvimento e, apesar de ser iniciante, já sei um pouco de HTML, CSS e Lua. Compartilho meu aprendizado e projetos no GitHub "[Gongals](https://github.com/Gongals)" e também no Twitter como "[Gongals](https://twitter.com/Gongals)". Tenho como objetivo me tornar um desenvolvedor full stack, e embora o que mais goste de fazer seja criar jogos e apps, estou aberto a fazer outros projetos para aprender. Tenho a intenção de adicionar todos os projetos que for aprendendo ao longo do tempo no meu GitHub.
+Olá, sou Gonçalo Oliveira, tenho 16 anos e sou natural de Portugal. Iniciei minha jornada no desenvolvimento e já aprendi um pouco de HTML, CSS e Lua. Meu objetivo é me tornar um desenvolvedor full stack, e embora meu foco principal seja criar jogos e aplicativos, estou aberto a aprender com outros tipos de projetos. Compartilho meu progresso e projetos no GitHub [Gongals](https://github.com/Gongals) e no Twitter [Gongals](https://twitter.com/Gongals). Ao longo do tempo, vou adicionar todos os projetos que for aprendendo ao meu GitHub.
 
 <p align="left">
-    <a href="https://www.youtube.com/channel/UCltbF8PGpkxSNVqbZEHVQgw">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCltbF8PGpkxSNVqbZEHVQgw?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
     <a href="https://github.com/Gongals?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
+            title="Total de estrelas no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/Gongals?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://www.twitch.tv/G0ngals">
-        <img 
-            alt="Twitch followers" 
-            title="Me siga na Twitch" 
-            src="https://custom-icon-badges.demolab.com/twitch/follow/G0ngals?color=9146FF&labelColor=6A39D9&style=for-the-badge&logo=twitch&logoColor=white"
         />
     </a>
 </p>
@@ -57,5 +43,3 @@ Me chamo Gonçalo Oliveira, tenho 16 anos e sou natural de Portugal. Estou come�
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gongals&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
-
----
