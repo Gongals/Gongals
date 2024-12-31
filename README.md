@@ -36,6 +36,7 @@ Aqui estão as principais linguagens e ferramentas com as quais estou trabalhand
     <img align="left" alt="Git" title="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </p>
 
+
 ---
 
 ### 📊 Estatísticas
