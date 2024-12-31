@@ -4,8 +4,6 @@
 
 Olá! Sou Gonçalo Oliveira, tenho 16 anos e sou natural de Portugal. Estou no início da minha jornada como desenvolvedor, e, apesar de ser iniciante, já possuo experiência com **HTML**, **CSS**, e **Lua**. Estou determinado a me tornar um **desenvolvedor full stack** e, embora tenha uma forte afinidade por **jogos** e **aplicativos**, estou aberto a aprender e trabalhar em diferentes projetos para expandir minhas habilidades. Compartilho meu aprendizado e projetos no **GitHub** [Gongals](https://github.com/Gongals) e no **Twitter** [@Gongals](https://twitter.com/Gongals).
 
----
-
 <p align="center">
     <a href="https://github.com/Gongals?tab=repositories&sort=stargazers">
         <img 
@@ -35,9 +33,6 @@ Aqui estão as principais linguagens e ferramentas com as quais estou trabalhand
     <img align="left" alt="Lua" title="Lua" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
     <img align="left" alt="Git" title="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </p>
-
-
----
 
 ### 📊 Estatísticas
 
